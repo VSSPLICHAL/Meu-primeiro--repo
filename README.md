@@ -1,2 +1,2 @@
-# Meu-primeiro--repo
+# Meu-primeiro-repo
 meu primeiro VS
